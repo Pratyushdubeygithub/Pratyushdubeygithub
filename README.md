@@ -23,7 +23,7 @@ I actively contribute to the data science community through:
 - Collaborating on open-source projects related to data analysis and visualization.
 
 ## Contact
-Feel free to reach out to me via email at [pratyushdubeymails@gmail.com](mailto:pratyushdubeymails@gmail.com) or connect with me on [LinkedIn](https//:www.linkedin.com/in/pratyush-dubey-775880244).
+Feel free to reach out to me via email at [pratyushdubeymails@gmail.com](mailto:pratyushdubeymails@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pratyush-dubey-775880244).
 
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
