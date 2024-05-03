@@ -1,8 +1,5 @@
 # Pratyush Dubey - Data Analyst
 
-<div align="center">
-  <img src="‪G:\Priority\Personal Details\Passport_grey.png" alt="Profile Picture" width="200px" height="200px">
-</div>
 
 ## Introduction
 Welcome to my GitHub repository! I'm Pratyush Dubey, a passionate data analyst with expertise in SQL, Python, Tableau, Power BI, Excel, and Machine Learning. This repository showcases some of my projects, contributions, and learning resources.
