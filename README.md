@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm Pratyush Dubey, a passionate data analyst w
 
 ## Skills
 - **Languages**: <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50px" height="80px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30px" height="80px">
 </div>, Python             
 - **Data Visualization**: Tableau, Power BI, Excel
 - **Machine Learning**: Scikit-learn, TensorFlow, keras
