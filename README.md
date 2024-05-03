@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm Pratyush Dubey, a passionate data analyst w
 
 ## Skills
 - **Languages**:<br />
-  <code><img height="40" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png"></code>
+  <code><img height="40" src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 - **Data Visualization**: Tableau, Power BI, Excel
 - **Machine Learning**: Scikit-learn, TensorFlow, keras
